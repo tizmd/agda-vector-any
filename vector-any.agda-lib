@@ -1,0 +1,3 @@
+name: vector-any
+depend: standard-library
+include: src
